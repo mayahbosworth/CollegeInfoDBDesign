@@ -1,1 +1,1 @@
-# CollegeInfoDBDesign
+# College Info DB Design
